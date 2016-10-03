@@ -6,3 +6,5 @@ A survival game where you are always running!
 
 ## Downloads
 [1st Prototype](https://github.com/zhuyidiwow/Tomb-Victims/releases)
+
+## [Some Suggestions for Improvement](Suggestions.md)
